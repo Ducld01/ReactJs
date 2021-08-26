@@ -1,0 +1,128 @@
+{
+    "product": [
+      {
+        "id": "96qcgzlyl",
+        "categoryID": "1",
+        "name": "Ninja 400",
+        "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2F721c84c8-54d0-491e-a84f-3204cfe6b705.png?alt=media&token=6cf546b0-2174-4623-b675-f8fabf1c6727",
+        "price": "162.000000",
+        "quantity": "10",
+        "status": "Pass",
+        "description": "Bản 2020"
+      },
+      {
+        "id": "0t7qs77gq",
+        "categoryID": "1",
+        "name": "Ninja 650 ABS KRT Edition",
+        "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2F721c84c8-54d0-491e-a84f-3204cfe6b705.png?alt=media&token=ec290fd5-32ef-4b4d-9306-f3d9481a45ac",
+        "price": "500",
+        "quantity": "10",
+        "status": "Pass",
+        "description": "Bản 2020"
+      },
+      {
+        "id": "r24smkqom",
+        "categoryID": "1",
+        "name": "Ninja 650 ABS",
+        "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2Fninja650-black.png?alt=media&token=5a8cc212-10c1-4a0c-8c6a-55f8f9e6a35b",
+        "price": "500",
+        "quantity": "10",
+        "status": "pass",
+        "description": "Bản 2021"
+      },
+      {
+        "id": "frlu0yhxv",
+        "categoryID": "1",
+        "name": "Ninja-ZX-25R SE",
+        "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2Fninja-zx25r.png?alt=media&token=55a21e0d-f5c5-495f-9ed4-55607c706dec",
+        "price": "500",
+        "quantity": "10",
+        "status": "Pass",
+        "description": "Bản 2021"
+      },
+      {
+        "id": "xj9yccvaw",
+        "categoryID": "1",
+        "name": "Ninja-ZX-10r ABS",
+        "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2Fninja-zx-10r.png?alt=media&token=c87078ac-71c0-4358-88f0-44612ea32d47",
+        "price": "500",
+        "quantity": "10",
+        "status": "Pass",
+        "description": "Bản 2021"
+      },
+      {
+        "id": "6yxphfeka",
+        "categoryID": "2",
+        "name": "Z900RS",
+        "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2Fz900rs.png?alt=media&token=6c096113-039e-4a61-a061-4dc499aabed4",
+        "price": "500",
+        "quantity": "10",
+        "status": "Pass",
+        "description": "Bản 2021"
+      },
+      {
+        "id": "0y4wa4g1q",
+        "categoryID": "2",
+        "name": "Z900",
+        "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2Fz900.png?alt=media&token=f36b6970-bef6-4949-a42f-276dcb487138",
+        "price": "500",
+        "quantity": "10",
+        "status": "Pass",
+        "description": "Bản 2021"
+      },
+      {
+        "id": "vwms0ziah",
+        "categoryID": "2",
+        "name": "Z400",
+        "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2Fz400.png?alt=media&token=14bf027a-a620-44a0-a080-66792b1a5e40",
+        "price": "500",
+        "quantity": "10",
+        "status": "Pass",
+        "description": "Bản 2021"
+      },
+      {
+        "id": "v3k3bmqyu",
+        "categoryID": "2",
+        "name": "Z650",
+        "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2Fz650-abs.png?alt=media&token=4ec14b2e-561d-428c-92ac-d1ce78ea33a6",
+        "price": "500",
+        "quantity": "10",
+        "status": "Pass",
+        "description": "Bản 2021"
+      },
+      {
+        "id": "x1gcz3se9",
+        "categoryID": "2",
+        "name": "Z1000 ABS",
+        "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2Fz1000-abs.png?alt=media&token=e0432f6e-2458-4ba6-9198-82a5fbfc2b5e",
+        "price": "500",
+        "quantity": "10",
+        "status": "Pass",
+        "description": "Bản 2021"
+      },
+      {
+        "id": "3gbtcexbf",
+        "categoryID": "3",
+        "name": "VERSYS-X 300 ABS",
+        "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2Fversys-x.png?alt=media&token=49480a4f-5b37-4e62-9799-4b636453cd73",
+        "price": "500",
+        "quantity": "10",
+        "status": "Pass",
+        "description": "Bản 2021"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Đường Phố / Đường Đua"
+      },
+      {
+        "id": 2,
+        "name": "Đường Phố"
+      },
+      {
+        "id": 3,
+        "name": "Touring"
+      }
+    ]
+  }
